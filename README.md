@@ -18,45 +18,23 @@ I build software systems and intelligent applications with a focus on backend de
 
 ## 🛠️ Technologies & Tools
 
-### Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,kotlin" />
-</p>
-
-`Python` • `Java` • `JavaScript` • `TypeScript` • `SQL` • `Kotlin`
-
-### Software Development
-
-<p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs" />
-</p>
-
-`REST APIs` • `OpenAPI / Swagger` • `Async Processing` • `API Design`
-
-### AI / ML
-
-<p>
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
-</p>
-
-`LLMs` • `RAG` • `LangChain` • `LangGraph` • `Transformers` • `XGBoost` • `Prompt Engineering`
-
-### Databases
-
-<p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" />
-</p>
-
-`PostgreSQL` • `MySQL` • `SQLite` • `Firebase Firestore` • `Data Modeling`
-
-### Cloud & DevOps
-
-<p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions,jenkins" />
 </p>
 
-`AWS` • `GCP` • `Docker` • `GitHub Actions` • `Jenkins` • `CI/CD`
+**Languages:** `Python` • `Java` • `JavaScript` • `TypeScript` • `SQL` • `Kotlin`
+
+**Software Development:** `FastAPI` • `Node.js` • `React` • `Next.js` • `REST APIs` • `OpenAPI / Swagger` • `Async Processing` • `API Design`
+
+**AI / ML:** `LLMs` • `RAG` • `LangChain` • `LangGraph` • `XGBoost`
+
+**Databases:** `PostgreSQL` • `MySQL` • `SQLite` • `Firebase Firestore` • `Data Modeling`
+
+**Cloud & DevOps:** `AWS` • `GCP` • `Docker` • `Git` • `GitHub Actions` • `Jenkins` • `CI/CD`
 
 ---
 
