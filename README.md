@@ -1,0 +1,113 @@
+# Hi, I'm Riddhi Bantia 👋
+
+### Software Development • AI/ML • Intelligent Applications
+
+I build software systems and intelligent applications with a focus on backend development, AI/ML, APIs, and modern developer technologies.
+
+---
+
+## 🧑‍💻 About Me
+
+- 💻 Building software systems with a focus on backend development and APIs
+- 🤖 Exploring AI/ML, LLM applications, RAG, and intelligent systems
+- ⚙️ Interested in scalable backend architecture, databases, and cloud technologies
+- 🌐 Comfortable working across software development, AI/ML, frontend, and cloud tooling
+- 🚀 Interested in turning ideas into practical, production-oriented applications
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,kotlin" />
+</p>
+
+`Python` • `Java` • `JavaScript` • `TypeScript` • `SQL` • `Kotlin`
+
+### Software Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs" />
+</p>
+
+`REST APIs` • `OpenAPI / Swagger` • `Async Processing` • `API Design`
+
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+</p>
+
+`LLMs` • `RAG` • `LangChain` • `LangGraph` • `Transformers` • `XGBoost` • `Prompt Engineering`
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" />
+</p>
+
+`PostgreSQL` • `MySQL` • `SQLite` • `Firebase Firestore` • `Data Modeling`
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions,jenkins" />
+</p>
+
+`AWS` • `GCP` • `Docker` • `GitHub Actions` • `Jenkins` • `CI/CD`
+
+---
+
+## 🔭 Currently Exploring
+
+- AI-powered applications
+- Large Language Model applications
+- Retrieval-Augmented Generation (RAG)
+- Multi-agent and agentic systems
+- Machine Learning applications
+- Backend architecture and API design
+- Cloud-native development
+
+---
+
+## 🌱 Open Source
+
+Contributor to **GirlScript Summer of Code** and interested in contributing to open-source software and developer communities.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/riddhi-bantia">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:riddhibantia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=riddhibantia&show_icons=true&hide_border=true&rank_icon=github"
+    height="165"
+    alt="Riddhi's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhibantia&layout=compact&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>Building software. Exploring intelligence. Learning continuously.</i>
+</p>
