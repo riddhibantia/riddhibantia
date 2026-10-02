@@ -16,18 +16,6 @@ I build software systems and intelligent applications with a focus on backend de
 
 ---
 
----
-
-## 🚀 Featured Project: [FinShield](https://github.com/riddhibantia/finshield)
-
-**Real-time, multi-signal fraud defense for digital payments** — XGBoost (ROC-AUC 0.97) + 5-signal risk fusion engine, FastAPI backend, Next.js investigation dashboard with SHAP explainability and Cashfree webhook ingestion.
-
-▶ **[Live Demo](https://finshield-demo.vercel.app)** • [Source Code](https://github.com/riddhibantia/finshield)
-
-`XGBoost` • `FastAPI` • `Next.js` • `SHAP` • `NetworkX` • `React` • `Tailwind CSS`
-
----
-
 ## 🛠️ Technologies & Tools
 
 <p>
